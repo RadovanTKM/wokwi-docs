@@ -82,3 +82,4 @@ The following example set the potentiometer to the middle position:
 - [Knob](https://wokwi.com/projects/344892191015961170) - Control a [servo](wokwi-servo) with a potentiometer
 - [Plot](https://wokwi.com/projects/298685457758159369) - Plot potentiometer values in the Serial Plotter
 - [Block shooter](https://wokwi.com/projects/291960996581343753) - Breakout style game
+skibid
